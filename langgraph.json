@@ -1,0 +1,7 @@
+{
+    "dependencies" : ["./Chapter 6"],
+    "graphs":{
+        "agent" :"Chapter 6/6.2_웹 검색 에이전트/2. 랭그래프로 에이전트 그래프 생성.py:graph"
+    },
+    "env": ".env"
+}

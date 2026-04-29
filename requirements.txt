@@ -1,0 +1,9 @@
+langgraph==1.0.0
+langgraph 
+langchain-openai 
+python-dotenv
+openai
+langchain-tavily
+pypdf
+langchain_community
+langchain-chroma
